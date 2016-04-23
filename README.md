@@ -2,7 +2,7 @@
 
 There are good reasons why modern electronics has not been implemented in space suits, even though technology on Earth is rapidly advancing. Cosmic radiation is very harmful to the circuitry on modern electronics, mostly because the density of the transistors is very big. This means that gadgets such as tablet computers cannot be used in space. One of the problems that arises is data inaccessibility for astronauts. While they work, they should receive a lot of crucial information for their well being. To address this issue, we have created a concept of a device which can display that crucial information directly to the astronauts using electronics that we’ve adapted to last in space environment. 
 
-<img src="http://i.imgur.com/wDgGlXZ.jpg" width="50px"/>
+<img src="http://i.imgur.com/wDgGlXZ.jpg" width="100px"/>
 
 <b>Description</b>
 
