@@ -1,8 +1,8 @@
-1.	Explanation
+Explanation
 
 There are good reasons why modern electronics has not been implemented in space suits, even though technology on Earth is rapidly advancing. Cosmic radiation is very harmful to the circuitry on modern electronics, mostly because the density of the transistors is very big. This means that gadgets such as tablet computers cannot be used in space. One of the problems that arises is data inaccessibility for astronauts. While they work, they should receive a lot of crucial information for their well being. To address this issue, we have created a concept of a device which can display that crucial information directly to the astronauts using electronics that we’ve adapted to last in space environment. 
 
-2.	Description
+Description
 
 The primary focus in the design of the device was to protect all the electrical components from cosmic radiation, and to be very user friendly and it can be easily operated by the astronaut, despite his massive gloves. 
 The device is assembled from several layers of material. On the top, we have corning gorilla glass made in collaboration with Motorola used to protect the device from light physical damage with thickness of 1mm. Next we have a 2mm layer of polycarbonate in order to protect the screen from radiation. After this, there is a specially designed mirror to reflect sun rays away from the screen to avoid its burning. The mirror is combined with the screen, which is actually an oled screen that provides strong levels of brightness to be able to penetrate the mirror and display a clear image to the astronaut. The mirror and the screen together have a thickness of 2mm. Following the mirror, we have a 5mm thick layer of lead to protect all the electronic components from cosmic radiation. In fact, the electronics are completely surrounded by lead from all sides. After the electronics and the cooling system, we have the second layer od lead with equal thickness. Finally, the entire device is surrounded by a special protective plastic which is 1,5mm thick.
@@ -13,7 +13,7 @@ From all of these layers of protection, the most impressive is the mirror. It is
 To conclude, the device is powered by 2 lithium-ion batteries which provide 20,000
 mAh. On full load, the system should consume ~500 mAh. 
 
-3.	Functionality
+Functionality
 
 As we mentioned previously, the purpose of this device is to display valuable information to the astronauts. The following measurements will be displayed:
 -	Radiation levels (α, β, γ, x, n)
